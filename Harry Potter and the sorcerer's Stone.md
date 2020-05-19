@@ -10,7 +10,7 @@
 >
 > Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say  that they were perfectly normal, thank you very much. 
 >
-> 家住女贞路4号的德思礼夫妇总是得意地说他们是非常规矩的人家。拜~托~拜托了
+> 家住女贞路4号的德思礼夫妇总是得意地说他们是非常规矩的人家。拜\~托\~拜托了
 
 - Drive  可缩写为Dr, 路名；
 - 幽默的写法，真的很正常吗？
