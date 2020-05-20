@@ -1,4 +1,4 @@
-# Harry *Potter* and the sorcerer's Stone
+# *Harry Potter and the sorcerer's Stone*
 
 ​	sorcerer 男巫；
 
