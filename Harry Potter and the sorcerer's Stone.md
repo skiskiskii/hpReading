@@ -43,6 +43,39 @@
 >
 > 德思礼夫妇有一个小儿子，名叫达力。在他们看来，人世间没有比达力更好的孩子了。
 
-> The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. 
+> The Dursleys had everything they wanted**,** but they also had a secret**, and** their greatest fear was that somebody would discover it. 
+>
+> 德思礼一家什么都不缺，但他们拥有一个秘密，他们最害怕的就是这秘密会被人发现。
 
-​	
+- 三个小句由两个连词，可！
+
+> They didn't think they could bear it if anyone found out about the Potters.Mrs. Potter was Mrs. Dursley's sister, but they hadn't met for several  years; in fact, Mrs. Dursley pretended she didn't have a sister, because her sister and her **good-for-nothing** husband were as **unDursleyish** **as it  was possible to be.**
+>
+> 他们想，一旦有人发现波特一家的事，他们会承受不住的。波特太太是德思礼太太的妹妹，不过她们已经有好几年不见面了。实际上，德思礼太太佯装自己根本没有这么个妹妹，因为她妹妹和她那一无是处的妹夫与德思礼一家的为人处世完全不一样。
+
+- good-for-nothing  a. 一无是处的，没出息的  n.  无用之人
+- 一个家族姓氏前加un  不像这个家族的人
+- as it was possible to be 强调
+
+> The Dursleys **shuddered to think** what the neighbors would say if the Potters arrived in the street. The Dursleys knew that the Potters had a small son, too, but they had never even seen him. This boy was another good reason for **keeping** the Potters **away**;they didn't want Dudley **mixing with** a child like that.
+>
+> 一想到邻居们会说波特夫妇来到了，德思礼夫妇会吓得胆战心惊。他们知道波特也有个儿子，只是他们从来没有见过。这孩子也是他们不与波特夫妇来往的一个很好的借口。他们也不愿让达力跟这种孩子厮混。
+
+- shuddered to think 一想到什么就战栗
+- keep sb. away 不与。。来往
+- mix with 鬼混  be mixed up with sb.
+
+> When Mr. and Mrs. Dursley woke up on the **dull, gray** Tuesday, our story  starts, there was **nothing about** the cloudy sky outside to suggest that  strange and mysterious things would soon be happening all over the  country.
+>
+> 我们的故事开始于一个昏暗、阴沉的星期二。德思礼夫妇一早醒来，窗外浓云低垂的天空并没有丝毫迹象预示这地方即将发生神秘古怪的事情。
+
+- dull gray  （移位） 把比喻挪到物的上面
+- there was noting about  此处nothing = not a hint  没有什么迹象
+
+> Mr. Dursley **hummed** as he picked out his most boring tie for work, **and**  Mrs. Dursley gossiped **away** happily as she wrestled **a screaming** Dudley  into his high chair.
+>
+> 德思礼先生**哼着小曲**，调出一条最不喜欢的领带带着上班，德思礼太太高高兴兴，一直絮絮叨叨，把唧哇乱叫的达力塞到了儿童椅里。
+
+- ​	and  此刻的and是一个轻微的转折
+- away  经常放在动词后面表示1. 劲头十足地。2. 持续地
+- a screaming 为何用a?  描述人很多状态，此刻的达力是screaming这种状态
