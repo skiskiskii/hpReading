@@ -43,4 +43,6 @@
 >
 > 德思礼夫妇有一个小儿子，名叫达力。在他们看来，人世间没有比达力更好的孩子了。
 
+> The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it. 
+
 ​	
