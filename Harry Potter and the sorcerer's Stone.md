@@ -79,3 +79,39 @@
 - ​	and  此刻的and是一个轻微的转折
 - away  经常放在动词后面表示1. 劲头十足地。2. 持续地
 - a screaming 为何用a?  描述人很多状态，此刻的达力是screaming这种状态
+
+003
+
+> None of them noticed a large, **tawny** owl flutter past the window.
+>
+> At half past eight, Mr. Dursley picked up his briefcase, **pecked** Mrs.  Dursley on the cheek, and tried to kiss Dudley good-bye but missed,  because Dudley was now having a tantrum and throwing his cereal at the  walls.
+>
+> 他们谁也没留意一只黄褐色的猫头鹰扑扇着翅膀从窗前飞过。
+>
+> 八点半，德思礼先生拿起公文包，在德思礼太太面颊上亲了一下，正要亲达力，跟这个小家伙道别，可是没有亲成，小家伙正在发脾气，把麦片往墙上摔。
+
+- tawny   黄褐色的
+- peck 啄，也可以当作亲，peck sb. on the cheek  亲某人的脸颊 
+
+> “Little tyke,” chortled Mr. Dursley as he left the house. He got into his car and backed out of number four's drive.
+>
+> "臭小子。"德思礼先生嘟哝了一句，咯咯笑着走出家门。坐进汽车，倒出4号车道。
+
+- tyke  小家伙，小淘气
+- chort  咯咯的笑
+- back up 倒车
+
+> It was on the corner of the street that he noticed the first sign of  something peculiar — a cat reading a map. For a second, Mr. Dursley  didn't realize what he had seen — then he **jerked** his head around to look again. 
+>
+> 在街角上，他看到了第一个异常的信号：一只猫在看地图。一开始，德思礼先生还没弄明白他看到了什么，于是又回过头去。
+
+- jerk  突然一动   jerk sb. around  给某人出难题； jerk off   打灰灰
+
+> There was a tabby cat standing on the corner of Privet Drive, but there wasn't a map in sight. What could he have been thinking of? It must have been a trick of the light. Mr. Dursley blinked and stared at the cat. It stared back. As Mr. Dursley drove around the corner and up the road, he watched the cat in his mirror.  It was now reading the sign that said Privet Drive **—** no, looking at the sign; cats couldn't read maps or signs. Mr. Dursley **gave himself a  little shake** and put the cat out of his mind. As he drove toward town he thought of nothing except a large order of drills he was hoping to get  that day.
+>
+> 只见一只花斑猫站在女贞路路口，但是没有看见地图。他到底在想些什么？很可能是光线使他产生了错觉吧。德思礼先生眨了眨眼，盯着猫看，猫也瞪着他。当德思礼先生拐过街角继续上路的时候，他从后视镜里看看那只猫。猫这时正在读女贞路的标牌，不，是在看标牌；猫是不会都地图或是读标牌的。德思礼先生定了定神，把猫从脑海里赶走。他开车进城，一路上想的全是希望今天他能得到一大批钻机的订单。
+
+- tabby cat/tabby  斑猫
+- --(破折号)  转折
+- give sb. a shake  
+
